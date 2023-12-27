@@ -1,0 +1,7 @@
+D:\Inscryption\DLS 0.4.7\bin\Debug\DLS 0.4.7.exe.config
+D:\Inscryption\DLS 0.4.7\bin\Debug\DLS 0.4.7.exe
+D:\Inscryption\DLS 0.4.7\bin\Debug\DLS 0.4.7.pdb
+D:\Inscryption\DLS 0.4.7\obj\Debug\DLS 0.4.7.csproj.AssemblyReference.cache
+D:\Inscryption\DLS 0.4.7\obj\Debug\DLS 0.4.7.csproj.CoreCompileInputs.cache
+D:\Inscryption\DLS 0.4.7\obj\Debug\DLS 0.4.7.exe
+D:\Inscryption\DLS 0.4.7\obj\Debug\DLS 0.4.7.pdb

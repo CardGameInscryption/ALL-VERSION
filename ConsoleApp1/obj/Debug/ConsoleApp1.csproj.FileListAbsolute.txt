@@ -1,0 +1,14 @@
+D:\Inscryption\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Inscryption\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Inscryption\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Inscryption\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Inscryption\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Inscryption\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Inscryption\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
